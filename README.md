@@ -1,6 +1,6 @@
 # Volume sequence registration for 3D Slicer
 
-qqfacetime better readme
+qqfacetime@gmail.com better readme
 
 This extension registers a sequence of volumes (3D+t a.k.a. 4D image data) to a selected volume. Processing results is a transform sequence (3D displacement field changing in time) and motion-compensated volume sequence. The transform sequence can be used for deforming point targets or structures.
 
